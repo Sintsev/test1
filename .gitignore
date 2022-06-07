@@ -12,3 +12,6 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+test1/.idea/workspace.xml
+test1/sandbox/.gradle
+test1/sandbox/build
